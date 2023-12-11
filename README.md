@@ -83,7 +83,7 @@ Displays portfolio performance metrics and weight plots.
 Calculates position sizes based on portfolio weights and lot sizes for trading on the MetaTrader5 platform.
 
 9. MetaTrader5 Execution:
-
+![MT5_trading_image](Images/mt5.png)
 Executes market orders (long or short) based on optimized portfolio weights.
 
 ## Contributing
